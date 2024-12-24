@@ -1,0 +1,19 @@
+{
+    "fruits":[
+        {
+            "id":1,
+            "name":"apple",
+            "price":"100"
+        },
+        {
+            "id":2,
+            "name":"kiwi",
+            "price":"40"
+        },
+        {
+            "id":3,
+            "name":"dragonFruit(real one , like real dragon)",
+            "price":"10000"
+        }
+    ]
+}
